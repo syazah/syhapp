@@ -1,5 +1,5 @@
 Compliance Quiz App
-
+**NOTE** Working on the backend and thus it will be updated on the github on completion of some confidential data
 This repository contains a full-stack application designed to help companies test their compliance through quizzes. The backend is built with the MERN stack, and the mobile app is developed using React Native to ensure cross-platform compatibility.
 Features
 
